@@ -23,6 +23,9 @@ metrics along with interactive data exploration.
 - Visual analysis using KPI cards, donut charts, area charts, and scatter plots
 - Clean and minimal dashboard design for better readability
 
+## Images
+![Project Screenshot](Screenshot%202026-01-20%20123655.png)
+
 ## Tools & Technologies Used
 - Power BI Desktop
 - Power Query (Data Cleaning and Transformation)
